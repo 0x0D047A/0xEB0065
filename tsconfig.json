@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "moduleResolution": "node",
+    "strictNullChecks": true
+  },
+  "include": [
+      "src/**/*"
+  ]
+}

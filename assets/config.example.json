@@ -1,0 +1,35 @@
+{
+    "auth": {
+      "email": "<your packtpub email>",
+      "password": "<your packtpub password>"
+    },
+    "download": {
+      "output": "./output",
+      "links": [
+        "https://subscription.packtpub.com/book/programming/9781788834094",
+        "https://subscription.packtpub.com/book/web_development/9781783980727",
+        "https://subscription.packtpub.com/book/game_development/9781789532050",
+        "https://subscription.packtpub.com/book/business/9781789804959",
+        "https://subscription.packtpub.com/book/virtualization_and_cloud/9781786468390",
+        "https://subscription.packtpub.com/book/networking_and_servers/9781782173311",
+        "https://subscription.packtpub.com/book/web_development/9781783285952",
+        "https://subscription.packtpub.com/book/business_and_other/9781789615531",
+        "https://subscription.packtpub.com/book/business_and_other/9781838980849",
+        "https://subscription.packtpub.com/book/business_and_other/9781789950694",
+        "https://subscription.packtpub.com/book/business_and_other/9781839211829",
+        "https://subscription.packtpub.com/book/networking_and_servers/9781788837927",
+        "https://subscription.packtpub.com/book/application_development/9781789533682",
+        "https://subscription.packtpub.com/book/networking_and_servers/9781788838849",
+        "https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783286713",
+        "https://subscription.packtpub.com/book/application_development/9781785881251",
+        "https://subscription.packtpub.com/book/cloud_and_networking/9781789800227",
+        "https://subscription.packtpub.com/book/programming/9781789133646",
+        "https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781788994941",
+        "https://subscription.packtpub.com/book/data/9781789807356",
+        "https://subscription.packtpub.com/book/cloud_and_networking/9781789536102",
+        "https://subscription.packtpub.com/book/application_development/9781789340761",
+        "https://subscription.packtpub.com/book/cloud_and_networking/9781788839259",
+        "https://subscription.packtpub.com/book/application_development/9781789342383"
+      ]
+    }
+  }
